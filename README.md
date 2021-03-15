@@ -1,2 +1,2 @@
 # Color Swtich
- trying to replicate colorSwtich
+ Studying trying to make an colorSwtich 
