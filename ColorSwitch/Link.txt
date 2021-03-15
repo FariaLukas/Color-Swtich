@@ -1,0 +1,7 @@
+Link do video:
+
+https://youtu.be/d3l4tUFp0dw
+
+
+Explicação: fiz uma pool com diversos obstaculos e fui reciclando e spawnando eles conforme o jogo decorre,
+ao todo são 10 obstaculos diferentes, os spawns são aleatorios de todas as partes no jogo.
